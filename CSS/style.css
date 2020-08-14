@@ -90,8 +90,15 @@ header{
 .projects{
   background: #EAFFFD;
 }
-.projects a{
-  color: blue;
+.projects .btn{
+  color: #F7FFF3;
+  background: #2F3061;
+  text-decoration: none;
+  padding: 8px;
+  border-radius: 4px;
+}
+.projects .btn:hover{
+  background: rgba(47, 48, 97, 80%);
 }
 .project-item{
   overflow: hidden;
