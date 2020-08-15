@@ -90,6 +90,9 @@ header{
 .projects{
   background: #EAFFFD;
 }
+.projects a{
+  color: blue;
+}
 .projects .btn{
   color: #F7FFF3;
   background: #2F3061;
